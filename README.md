@@ -2,7 +2,7 @@
 
 For those that have dreamt to hunt crocs
 
-# Usage tere
+# Usage tereCI
 Basic go webserver to demonstrate example CI/CD pipeline using Kubernetes 
 
 # Deploy using Jenkins Chart and Helm
